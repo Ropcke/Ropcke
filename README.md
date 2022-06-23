@@ -13,6 +13,6 @@
  
   ##
   
-  
+  ![Snake animation](https://github.com/Ropcke/Ropcke/blob/output/github-contribution-grid-snake.svg)
    
   
